@@ -6,7 +6,7 @@
     <div class="content">
       <h1>Vue-geb usage demo</h1>
       <p>This is an example of how to use a global event bus to your advantage. We are using <a href="http://bulma.io/">Bulma</a> for the UI style.</p>
-      <p>Checkout this example's repository and the vue-geb global event vue plugin used here.</p>
+      <p>Checkout this <a href="https://github.com/vouill/vue-geb-example"> example's repository</a> and the <a href="https://github.com/vouill/vue-geb"> vue-geb</a> global event vue plugin used here.</p>
     </div>
     <Hello/>
     </div>
