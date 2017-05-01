@@ -16,7 +16,7 @@ Moreover you can use it with or without app state libraries.
 
 [Demo](https://vouill.github.io/vue-geb-example/)
 
-Instead of binding the [modal](https://github.com/vouill/vue-geb-example/blob/master/src/plugin/components/modal.vue) to a parent component (vanilla vue way), thanks to the [global event bus](https://github.com/vouill/vue-geb) it can be easily used anywhere and called from anywhere.
+This [modal](https://github.com/vouill/vue-geb-example/blob/master/src/plugin/components/modal.vue) can be called from anywhere by any means thanks to the [global event bus](https://github.com/vouill/vue-geb).
 
 2 implementation possibilities are shown:
 
