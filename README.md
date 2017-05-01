@@ -20,8 +20,8 @@ Instead of binding the [modal](https://github.com/vouill/vue-geb-example/blob/ma
 
 2 implementation possibilities are shown:
 
-[Simplest](https://github.com/vouill/vue-geb-example/blob/master/src/components/Hello.vue#L6) way to use vue-geb.
-Using Vuex [action](https://github.com/vouill/vue-geb-example/blob/master/src/store.js#L12).
+* [Simplest](https://github.com/vouill/vue-geb-example/blob/master/src/components/Hello.vue#L6) way to use vue-geb.
+* Using Vuex [action](https://github.com/vouill/vue-geb-example/blob/master/src/store.js#L12).
 
 The main goal of vue-geb is to make it as easy as possible to trigger Ui action.
 
