@@ -8,7 +8,6 @@ Vue.use(Vuex)
 
 const actions = {
   open_modal: ({commit}, payload) => {
-    commit('open_modal', payload)
     gebHandler.emit(payload)
   }
 }
